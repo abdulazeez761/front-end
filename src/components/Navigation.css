@@ -1,0 +1,66 @@
+.navigation {
+  background-color: #fff;
+  border-bottom: 1px solid #DCDCDC;
+  height: 70px;
+  color: #fff;
+  position: relative;
+  display: flex;
+}
+
+input {
+  background: #202022;
+  border: #9c2224;
+  width: 500%;
+  height: 70%;
+}
+.inputs {
+  flex: 1;
+  padding-left: 100px;
+  padding-top: 10px;
+}
+.profile-left {
+  padding-left: 1100px;
+  display: flex;
+}
+.avatar-left {
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 10px;
+  position: relative;
+  display: inline-block;
+}
+
+.tooltipinfo {
+  visibility: hidden;
+  width: 120px;
+  background-color: #202022;
+  text-align: center;
+  border-radius: 10px;
+  padding: 5px 0;
+  /* positioning */
+  position: absolute;
+  z-index: 1;
+  top: 130%;
+  left: -250%;
+  margin-left: 60px;
+}
+
+.tooltipinfo i{
+  font-size: 20px;
+}
+
+.avatar-left:hover .tooltipinfo {
+  visibility: visible;
+}
+.profile-title {
+  margin: 5px;
+  padding-left: 10px;
+}
+.user {
+  font-size: 20px;
+  color: #202022;
+}
+
+.user-level {
+  font-size: 12px;
+}
