@@ -1,32 +1,34 @@
 [
+    
+    
     {
         "id": 1,
-        "title": "air attack",
-        "image": "../"
+        "image": "../asserts/images/Action/airattack.png",
+        "name": "aira ttack"
     },
     {
         "id": 2,
-        "title": "air attack",
-        "image": "../asserts/posters/Action/bomber.png"
+        "image": "../asserts/images/Action/alienshooterv2.png",
+        "name": "alien shooter "
     },
     {
         "id": 3,
-        "title": "air attack",
-        "image": "../"
+        "image": "../asserts/images/Action/amazonjungle.png",
+        "name": "amazon jungle  "
     },
     {
         "id": 4,
-        "title": "air attack",
-        "image": "../"
+        "image": "../asserts/images/Action/battletankv2.png",
+        "name": "battle tank "
     },
     {
         "id": 5,
-        "title": "air attack",
-        "image": "../"
+        "image": "../asserts/images/Action/boomber.png",
+        "name": "boomber "
     },
     {
         "id": 6,
-        "title": "air attack",
-        "image": "../"
+        "image": "../asserts/images/Action/alienshooter.png",
+        "name": "alien shooter"
     }
-]
+] 

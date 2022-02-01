@@ -15,26 +15,26 @@ function Sidebar() {
           <div className="">
             <li className="anyclass">
               <div className="side-logo" >
-                <i class="fas fa-home"></i>
+                <i className="fas fa-home"></i>
               </div>
               <p id="side-title">Home</p>
             </li>
           </div>
           <li>
             <div className="side-logo">
-              <i class="fas fa-gamepad"></i>
+              <i className="fas fa-gamepad"></i>
             </div>
             <p id="side-title">Play</p>
           </li>
           <li>
             <div className="side-logo">
-              <i class="fas fa-trophy-alt"></i>
+              <i className="fas fa-trophy-alt"></i>
             </div>
             <p id="side-title">Play N Win</p>
           </li>
           <li>
             <div className="side-logo">
-              <i class="fas fa-user-circle"></i>
+              <i className="fas fa-user-circle"></i>
             </div>
             <p id="side-title">Profile</p>
           </li>
